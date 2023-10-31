@@ -14,11 +14,9 @@ I closely collaboarte with Dr. [Swaroop Mishra](https://swarooprm.github.io/) an
 My research interests are at Large Language Models, Causal LMs, Enhancing Pretraining corpora, Instruction Tuning and Direct Prefence Optimization. 
 Please find my resume attached [here](https://drive.google.com/file/d/1XI4LQTa0fn0uQGo9UEXtSQ4-XNuOBERF/view?usp=sharing)
 
-
 News
 ======
 * **05.2023** Started Internship at Amazon Web Services
-
 
 Papers
 ======
@@ -40,7 +38,6 @@ Himanshu Gupta, Neeraj Varshney, Swaroop Mishra, Kuntal Kumar Pal, Saurabh Arjun
 
 * Please check [my google scholar](https://scholar.google.com/citations?user=nsYohr8AAAAJ&hl=en) page for all the papers.
 
-
 Education
 ======
 * **01.2022-12.2023** MS - Information Technology, Arizona State University
@@ -50,15 +47,11 @@ Education
 Experience
 ======
 * **05.2023-07.2023** Internship at Amazon Web Services.
-* **08.2023-present** 40hr Coop as Applied Scientist at Stealth Startup.
-* **01.2022-05.2023** Graduate research assistant at Lab V2, ASU under Dr. Paulo Shakarian.
-* **01.2022-05.2023** Graduate research volunteer at CogInt Labs, ASU under Dr. Chitta Baral.
-* **01.2019-12.2021** Data Science Analyst at an AI consulting firm - [Tiger Analytics](https://www.tigeranalytics.com/). 
+* **03.2022-Present** Data Science Analyst - [ASU Decision Theater Network](https://dt.asu.edu/).
+* **08.2022-04.2023** Graduate research assistant under Dr. Paulo Shakarian - [ASU Lab V2](https://labs.engineering.asu.edu/labv2/).
+* **01.2022-04.2023** Graduate research volunteer under Dr. Chitta Baral [ASU CogInt Labs](https://cogintlab-asu.github.io/).
+* **01.2020-12.2021** Data Science Analyst at an AI consulting firm - [Tiger Analytics](https://www.tigeranalytics.com/). 
 
 Honors and Awards
 ======
 * 2023 EMNLP Reviewer
-
-
-
- 
