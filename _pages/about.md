@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,8 +20,7 @@ News
 * **05.2023** Started Internship at Amazon Web Services
 
 
-
-Selected Papers
+Papers
 ======
 * **[TarGEN: Targeted Data Generation with Large Language Models](https://arxiv.org/abs/2308.14250)** <br>
 Himanshu Gupta, ***Kevin Scaria***, Ujjwala Anantheswaran, Shreyas Verma, Mihir Parmar, Saurabh Arjun Sawant, Swaroop Mishra, Chitta Baral <br>
