@@ -10,16 +10,26 @@ redirect_from:
 
 I am a second year graduate student at The Polytechnic School, Arizona State University. 
 I am a research volunteer working with Prof. [Chitta Baral](https://www.public.asu.edu/~cbaral/) and Prof. [Paulo Shakarian](https://search.asu.edu/profile/2424157). 
-I closely collaboarte with Dr. [Swaroop Mishra](https://swarooprm.github.io/) and Dr. [Arindam Mishra](https://ari9dam.github.io/). 
-My research interests are at Large Language Models, Causal LMs, Enhancing Pretraining corpora, Instruction Tuning and Direct Prefence Optimization. 
-Please find my resume attached [here](https://drive.google.com/file/d/1XI4LQTa0fn0uQGo9UEXtSQ4-XNuOBERF/view?usp=sharing)
+I closely collaboarte with Dr. [Swaroop Mishra](https://swarooprm.github.io/) and Dr. [Arindam Mitra](https://ari9dam.github.io/). 
+My research interests are Efficient Large Language Models (LLMs), LLM Alignment, Augment LLM Reasoning and RAGs.
+I am also exploring vision language research.
+Please find my resume attached [here]()
 
 News
 ======
+* **08.2023** Completed Internship at Amazon Web Services
 * **05.2023** Started Internship at Amazon Web Services
 
 Papers
 ======
+* **New Model Alignment Paper WIP 🚧** <br>
+***Kevin Scaria***, Himanshu Gupta, Swaroop Mishra, Chitta Baral <br>
+  **preprint**<br>
+
+* **CLARE: New Reasoning Paper WIP 🚧** <br>
+***Kevin Scaria***, Himanshu Gupta, Swaroop Mishra, Chitta Baral <br>
+  **preprint**<br>
+
 * **[TarGEN: Targeted Data Generation with Large Language Models](https://arxiv.org/abs/2308.14250)** <br>
 Himanshu Gupta, ***Kevin Scaria***, Ujjwala Anantheswaran, Shreyas Verma, Mihir Parmar, Saurabh Arjun Sawant, Swaroop Mishra, Chitta Baral <br>
   **preprint**<br>
@@ -52,6 +62,6 @@ Experience
 * **01.2022-04.2023** Graduate research volunteer under Dr. Chitta Baral [ASU CogInt Labs](https://cogintlab-asu.github.io/).
 * **01.2020-12.2021** Data Science Analyst at an AI consulting firm - [Tiger Analytics](https://www.tigeranalytics.com/). 
 
-Honors and Awards
+Volunteering, Honors and Awards
 ======
 * 2023 EMNLP Reviewer
