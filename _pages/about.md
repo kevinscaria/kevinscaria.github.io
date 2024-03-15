@@ -34,18 +34,6 @@ Bowen Xi, ***Kevin Scaria***, Paulo Shakarian <br>
 ***Kevin Scaria***, Himanshu Gupta, Siddharth Goyal, Saurabh Arjun Sawant, Swaroop Mishra, Chitta Baral <br>
   **NAACL 2024**<br>
   
-* **New Model Alignment Paper WIP 🚧** <br>
-***Kevin Scaria***, Himanshu Gupta, Swaroop Mishra, Chitta Baral <br>
-  **preprint**<br>
-
-* **CCLARE: New Reasoning Paper WIP 🚧** <br>
-***Kevin Scaria***, Himanshu Gupta, Swaroop Mishra, Chitta Baral <br>
-  **preprint**<br>
-
-* **ProbleMATHic: New Math Reasoning Paper WIP 🚧** <br>
-Ujjwala Anantheswaram, ***Kevin Scaria***, Himanshu Gupta, Swaroop Mishra, Chitta Baral <br>
-  **preprint**<br>
-  
 * **["John is 50 years old, can his son be 65?" Evaluating NLP Models' Understanding of Feasibility](https://arxiv.org/abs/2210.07471).** <br>
 Himanshu Gupta, Neeraj Varshney, Swaroop Mishra, Kuntal Kumar Pal, Saurabh Arjun Sawant, ***Kevin Scaria***, Siddharth Goyal, Chitta Baral <br>
   **EACL 2023**<br>
