@@ -22,18 +22,6 @@ News
 
 Papers
 ======
-* **New Model Alignment Paper WIP 🚧** <br>
-***Kevin Scaria***, Himanshu Gupta, Swaroop Mishra, Chitta Baral <br>
-  **preprint**<br>
-
-* **CCLARE: New Reasoning Paper WIP 🚧** <br>
-***Kevin Scaria***, Himanshu Gupta, Swaroop Mishra, Chitta Baral <br>
-  **preprint**<br>
-
-* **ProbleMATHic: New Math Reasoning Paper WIP 🚧** <br>
-Ujjwala Anantheswaram, ***Kevin Scaria***, Himanshu Gupta, Swaroop Mishra, Chitta Baral <br>
-  **preprint**<br>
-
 * **[TarGEN: Targeted Data Generation with Large Language Models](https://arxiv.org/abs/2308.14250)** <br>
 Himanshu Gupta, ***Kevin Scaria***, Ujjwala Anantheswaran, Shreyas Verma, Mihir Parmar, Saurabh Arjun Sawant, Swaroop Mishra, Chitta Baral <br>
   **Submitted to COLM 2024**<br>
@@ -45,6 +33,18 @@ Bowen Xi, ***Kevin Scaria***, Paulo Shakarian <br>
 * **[InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis](https://arxiv.org/abs/2302.08624)** <br>
 ***Kevin Scaria***, Himanshu Gupta, Siddharth Goyal, Saurabh Arjun Sawant, Swaroop Mishra, Chitta Baral <br>
   **NAACL 2024**<br>
+  
+* **New Model Alignment Paper WIP 🚧** <br>
+***Kevin Scaria***, Himanshu Gupta, Swaroop Mishra, Chitta Baral <br>
+  **preprint**<br>
+
+* **CCLARE: New Reasoning Paper WIP 🚧** <br>
+***Kevin Scaria***, Himanshu Gupta, Swaroop Mishra, Chitta Baral <br>
+  **preprint**<br>
+
+* **ProbleMATHic: New Math Reasoning Paper WIP 🚧** <br>
+Ujjwala Anantheswaram, ***Kevin Scaria***, Himanshu Gupta, Swaroop Mishra, Chitta Baral <br>
+  **preprint**<br>
   
 * **["John is 50 years old, can his son be 65?" Evaluating NLP Models' Understanding of Feasibility](https://arxiv.org/abs/2210.07471).** <br>
 Himanshu Gupta, Neeraj Varshney, Swaroop Mishra, Kuntal Kumar Pal, Saurabh Arjun Sawant, ***Kevin Scaria***, Siddharth Goyal, Chitta Baral <br>
