@@ -8,23 +8,44 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Engineer at Amazon Web Services. I completed my MS in Information Technology from The Polytechnic School, Arizona State University. 
-I am a research volunteer working with Prof. [Chitta Baral](https://www.public.asu.edu/~cbaral/) and Prof. [Paulo Shakarian](https://search.asu.edu/profile/2424157). 
-I closely collaboarte with Dr. [Swaroop Mishra](https://swarooprm.github.io/) and Dr. [Arindam Mitra](https://ari9dam.github.io/). 
+I am a Machine Learning Engineer at Amazon Alexa
+where I work on developing content moderation models for Alexa Large Language Models (LLM) as well 
+as research on mitigating security vulnerabilities (such as prompt injection attacks) on large action models (LAMs).
+I completed my MS in Information Technology from The Polytechnic School, Arizona State University. 
+I was a research volunteer working with Prof. [Chitta Baral](https://www.public.asu.edu/~cbaral/) and Prof. [Paulo Shakarian](https://search.asu.edu/profile/2424157). 
+I closely collaborate with Dr. [Swaroop Mishra](https://swarooprm.github.io/) and Dr. [Arindam Mitra](https://ari9dam.github.io/). 
 My research interests are Efficient Large Language Models (LLMs), LLM Alignment, Augment LLM Reasoning and RAGs.
 I am also exploring vision language research.
 Please find my resume attached [here](https://drive.google.com/file/d/1ielxtf5bxN0a6WehCDCIUN2bEOE7Pqxp/view?usp=sharing)
 
+Research
+======
+My research interests include LLM reasoning, LLM security, Instruction Tuning, Preference Optimization and Model efficience. 
+My strength lies in generating new ideas, and I am fortunate to collaborate with a diverse set of awesome researchers.
+
 News
 ======
-* **02.2024** Started Full Time Job at Amazon Web Services
+* **06.2024** Started Full Time Job as Machine Learning Engineer at Amazon Alexa
+* **02.2024** Started Full Time Job as Software Developer at Amazon Web Services
 * **05.2023** Started Internship at Amazon Web Services
 
 Papers
 ======
+* **[PolyMTH: A Challenging Multi-modal Mathematical Reasoning Benchmark](https://polymathbenchmark.github.io/)** <br>
+Himanshu Gupta\*, Shreyas Verma\*, Ujjwala Anantheswaran\*, ***Kevin Scaria***\*, Mihir Parmar, Saurabh Arjun Sawant, Swaroop Mishra, Chitta Baral <br>
+  **Submitted to ICLR 2025** (\* - Equal First Author Contribution) <br>
+
+* **[Investigating the Robustness of LLMs on Math Word Problems](https://arxiv.org/abs/2406.15444)** <br>
+Ujjwala Anantheswaram, ***Kevin Scaria***, Himanshu Gupta, Swaroop Mishra, Chitta Baral <br>
+  **preprint**<br>
+
+* **[Embarrassingly Simple Unsupervised Aspect Based Sentiment Tuple Extraction](https://arxiv.org/abs/2404.13751)** <br>
+***Kevin Scaria***, Abyn Scaria, Ben Scaria <br>
+  **preprint**<br>
+
 * **[TarGEN: Targeted Data Generation with Large Language Models](https://arxiv.org/abs/2308.14250)** <br>
 Himanshu Gupta, ***Kevin Scaria***, Ujjwala Anantheswaran, Shreyas Verma, Mihir Parmar, Saurabh Arjun Sawant, Swaroop Mishra, Chitta Baral <br>
-  **Submitted to COLM 2024**<br>
+  **COLM 2024**<br>
 
 * **[Rule-Based Error Detection and Correction to Operationalize Movement Trajectory Classification](https://arxiv.org/abs/2308.14250)** <br>
 Bowen Xi, ***Kevin Scaria***, Paulo Shakarian <br>
@@ -48,6 +69,7 @@ Education
 
 Experience
 ======
+* **06.20234-Present** Machine Learning Engineer at Amazon Alexa.
 * **02.20234-Present** Software Engineer at Amazon Web Services.
 * **05.2023-07.2023** Software Engineer Intership at Amazon Web Services.
 * **03.2022-12.2023** Data Science Analyst - [ASU Decision Theater Network](https://dt.asu.edu/).
@@ -57,4 +79,5 @@ Experience
 
 Volunteering, Honors and Awards
 ======
+* 2024 NeurIPS RBFM Workshop Reviewer
 * 2023 EMNLP Reviewer

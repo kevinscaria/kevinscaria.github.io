@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Kevin Joseph Scaria"
   avatar           : "profile.jpg"
-  bio              : "Software Engineer @ AWS"
-  location         : "Tempe, Arizona, United States"
-  employer         : "Amazon Web Services"
+  bio              : "Machine Learning @ Amazon Alexa"
+  location         : "Seattle, Washington, United States"
+  employer         : "Amazon"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=nsYohr8AAAAJ&hl=en"
   email            : "kscaria@asu.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Kevin-Scaria-2"
   uri              :
   bitbucket        :
   codepen          :
