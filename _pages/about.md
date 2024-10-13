@@ -20,7 +20,8 @@ Please find my resume attached [here](https://drive.google.com/file/d/1ielxtf5bx
 
 Research
 ======
-My research interests include LLM reasoning, LLM security, Instruction Tuning, Preference Optimization and Model efficience. 
+My research interests include LLM Reasoning, LLM Security, Instruction Tuning, Creation & Curation of Benchmarks, 
+Preference Optimization and Model Efficiency. 
 My strength lies in generating new ideas, and I am fortunate to collaborate with a diverse set of awesome researchers.
 
 News
@@ -31,7 +32,7 @@ News
 
 Papers
 ======
-* **[PolyMTH: A Challenging Multi-modal Mathematical Reasoning Benchmark](https://polymathbenchmark.github.io/)** <br>
+* **[PolyMATH: A Challenging Multi-modal Mathematical Reasoning Benchmark](https://polymathbenchmark.github.io/)** <br>
 Himanshu Gupta\*, Shreyas Verma\*, Ujjwala Anantheswaran\*, ***Kevin Scaria***\*, Mihir Parmar, Saurabh Arjun Sawant, Swaroop Mishra, Chitta Baral <br>
   **Submitted to ICLR 2025** (\* - Equal First Author Contribution) <br>
 
