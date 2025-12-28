@@ -25,8 +25,21 @@ My strength lies in generating new ideas, and I am fortunate to collaborate with
 
 News
 ======
+* **10.2025** 1 Paper (PolyMATH: A Challenging Multi-modal Mathematical Reasoning Benchmark) accepted in NeurIPS 2025 Workshops
+* **09.2025** Serving as Reviewer for ICLR 2026
+* **06.2025** Serving as Reviewer for COLM 2025
+* **05.2025** 1 Paper (Rule-Based Error Detection and Correction to Operationalize Movement Trajectory Classification) accepted in IJCAI 2025 Workshops
+* **02.2025** 1 Paper (Cutting Through the Noise: Boosting LLM Performance on Math Word Problems) accepted in ICLR 2025 Workshops
+* **02.2025** Contributed to HLE which is available now!
+* **02.2025** Serving as Reviewer for ICLR 2025
+* **11.2024** Reached 200 citations
+* **07.2024** 1 Paper (TarGEN: Targeted Data Generation with Large Language Models) accepted at COLM2024
+* **03.2024** 1 Paper (InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis) accepted at NAACL 2024
+* **02.2024** Started Full Time Job as Applied Scientist at Amazon
+* **01.2024** Reached 100 citations
 * **02.2024** Started Full Time Job as Applied Scientist at Amazon
 * **05.2023** Started Internship at Amazon Web Services
+* **01.2023** 1 Paper ("John is 50 years old, can his son be 65?" Evaluating NLP Models' Understanding of Feasibility) accepted at EACL 2023
 
 Papers
 ======
@@ -70,7 +83,7 @@ Education
 
 Experience
 ======
-* **02.20234-Present** Applied Scientist at Amazon.
+* **02.2024-Present** Applied Scientist at Amazon.
 * **05.2023-07.2023** Software Engineer Intership at Amazon Web Services.
 * **03.2022-12.2023** Data Science Analyst - [ASU Decision Theater Network](https://dt.asu.edu/).
 * **08.2022-04.2023** Graduate research assistant under Dr. Paulo Shakarian - [ASU Lab V2](https://labs.engineering.asu.edu/labv2/).
@@ -79,6 +92,6 @@ Experience
 
 Volunteering, Honors and Awards
 ======
-* 2025 - ICLR 25’, ACL 25’ Industry Track, COLM 2025
-* 2024 - NeurIPS RBFM Workshop, ICLR 24'
+* 2025 - ICLR 26’, ACL 25’ Industry Track, COLM 2025
+* 2024 - NeurIPS RBFM Workshop, ICLR 25'
 * 2023 - EMNLP 23'
