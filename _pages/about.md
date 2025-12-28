@@ -52,7 +52,7 @@ Bowen Xi, ***Kevin Scaria***, Paulo Shakarian <br>
 
 * **[Humanity's Last Exam](https://arxiv.org/abs/2501.14249)** <br>
 Long Phan, ... ***Kevin Scaria*** and ~1000 additional authors/contributors <br>
-  **Large Scale AI Benchmarking (https://agi.safe.ai/)**<br>
+  **Large Scale AI Benchmarking** - (Leaderboard)[https://agi.safe.ai/]<br>
 
 * **[InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis](https://arxiv.org/abs/2302.08624)** <br>
 ***Kevin Scaria***, Himanshu Gupta, Siddharth Goyal, Saurabh Arjun Sawant, Swaroop Mishra, Chitta Baral <br>
@@ -67,8 +67,6 @@ Himanshu Gupta, Neeraj Varshney, Swaroop Mishra, Kuntal Kumar Pal, Saurabh Arjun
 Education
 ======
 * **01.2022-12.2023** MS - Information Technology, Arizona State University
-<!-- * **2019-2019** Post Graduate Program in Data Science Engineering, Great Lakes Institute of Management
-* **2014-2018** B.Tech., SRM Institute of Science and Technology,  -->
 
 Experience
 ======
