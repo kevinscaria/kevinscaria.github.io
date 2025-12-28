@@ -52,7 +52,7 @@ Bowen Xi, ***Kevin Scaria***, Paulo Shakarian <br>
 
 * **[Humanity's Last Exam](https://arxiv.org/abs/2501.14249)** <br>
 Long Phan, ... ***Kevin Scaria*** and ~1000 additional authors/contributors <br>
-  **Large Scale AI Benchmarking** - (Leaderboard)[https://agi.safe.ai/]<br>
+  **Large Scale AI Benchmarking** - [Leaderboard](https://agi.safe.ai/)<br>
 
 * **[InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis](https://arxiv.org/abs/2302.08624)** <br>
 ***Kevin Scaria***, Himanshu Gupta, Siddharth Goyal, Saurabh Arjun Sawant, Swaroop Mishra, Chitta Baral <br>
