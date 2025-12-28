@@ -42,7 +42,7 @@ Ujjwala Anantheswaram, ***Kevin Scaria***, Himanshu Gupta, Swaroop Mishra, Chitt
 ***Kevin Scaria***, Abyn Scaria, Ben Scaria <br>
   **Submitted to ACL 2025**<br>
 
-* **[TarGEN: Targeted Data Generation with Large Language Models](https://arxiv.org/abs/2308.14250)** <br>
+* **[TarGEN: Targeted Data Generation with Large Language Models](https://arxiv.org/abs/2310.17876)** <br>
 Himanshu Gupta, ***Kevin Scaria***, Ujjwala Anantheswaran, Shreyas Verma, Mihir Parmar, Saurabh Arjun Sawant, Swaroop Mishra, Chitta Baral <br>
   **COLM 2024**<br>
 
