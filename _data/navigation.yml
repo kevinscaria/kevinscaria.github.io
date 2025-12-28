@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Research"
+    url: /#research
+
   - title: "News"
     url: /#news
     
@@ -12,6 +15,6 @@ main:
   - title: "Experience"
     url: /#experience
 
-  - title: "Honors and Awards"
-    url: /#honors-and-awards  
+  - title: "Volunteering, Honors and Awards"
+    url: /#volunteering-honors-and-awards
     
